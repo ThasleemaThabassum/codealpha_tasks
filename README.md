@@ -1,5 +1,5 @@
 # codealpha_tasks
-CodeAlpha Internship Tasks - EDA, Data Visualization &amp; Sentiment Analysis using Python
+CodeAlpha Internship Tasks - EDA, Data Visualization & Sentiment Analysis using Python
 👉 To view the notebook properly, open the .ipynb file or download the HTML file.
 
 # CodeAlpha Data Analytics Internship
